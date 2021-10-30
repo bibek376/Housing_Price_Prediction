@@ -1,0 +1,63 @@
+#f1{
+    /* margin-top:10px;
+    margin-bottom: none;
+    background-color:rgb(103, 211, 238); */
+    background-color:rgb(103, 211, 238);
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* background-color: red; */
+  /* color: white; */
+  text-align: center;
+}
+p {
+    color:beige;
+    text-align:center;
+}
+#cop {
+    color:black;
+    text-align: center;
+}
+h5{
+    /* color:red; */
+    margin:auto;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    margin: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+#btn{
+    margin:auto;
+    display:block;
+}
+#auth{
+    color:greenyellow;
+}
+#price{
+    color:antiquewhite;
+    text-align:center;
+    
+}
+#head1{
+    background-color:rgb(103, 211, 238);
+    margin-bottom: 20px;
+
+}
+#link{
+    color:beige;
+    background-color:red;
+    
+    margin:auto;
+    display:block;
+    text-align:center;
+}
+
+#titlepage{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

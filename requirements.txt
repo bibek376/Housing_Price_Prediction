@@ -1,1 +1,13 @@
 certifi==2021.5.30
+click==8.0.3
+Flask==2.0.2
+itsdangerous==2.0.1
+Jinja2==3.0.2
+joblib==1.1.0
+MarkupSafe==2.0.1
+numpy==1.21.3
+scikit-learn==1.0
+scipy==1.7.1
+sklearn==0.0
+threadpoolctl==3.0.0
+Werkzeug==2.0.2
