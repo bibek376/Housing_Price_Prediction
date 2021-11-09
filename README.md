@@ -83,7 +83,7 @@ fiveYearsProperty: if the owner have the property for less than 5 years.<br>
 ### 3. EDA
 ![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/1.png)
 #### A.Data Cleaning
-we have 26 columns ,from these we don't want some column(i.e. url,id,cid) then we will perform data cleaning wich involve following steps.<br>
+we have 26 columns ,from these we don't want some column(i.e. url,id,cid) then we will perform data cleaning wich involve following steps. our target variable is totalPrice<br>
 a. Impute/Remove missing values or Null values (NaN)<br>
 b. Remove unnecessary and corrupted data.<br>
 c. Date/Text parsing if required.
@@ -100,11 +100,18 @@ some column have unique character. we solve these problem using split method and
 
 We also have a categorical data we handle such kind of data using dummies variable concept. following are the columns which have categorical data.<br>
 a. renovationCondition<br>
-b. buildingStructure
-c. buildingType
-d. district
-e. elevator
+b. buildingStructure<br>
+c. buildingType<br>
+d. district<br>
+e. elevator<br>
 f. floor_type
+
+
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/5.png)
+Summary of the Heat-Map<br>
+a. totalPrice is highly corellated with community average,square,bathroom,livingroom and Trde Time.<br>
+b. totalprice is highly negative corellated with ladderRatio,lat and lng.
+
 
 
 
