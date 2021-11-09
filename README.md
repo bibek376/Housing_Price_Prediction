@@ -14,7 +14,8 @@
 
 
 ### 1. Project Description
-Problem Statement
+####Problem Statement
+
 Thousands of houses are sold everyday. There are some questions every buyer asks himself like: What is the actual price that this house deserves? Am I paying a fair price?
 
 
