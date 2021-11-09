@@ -8,5 +8,5 @@
 5. [Model Creation]()
 6. [Model Deployment]()
 7. [Model Conclusion]()
-8. [[Project Innovation]()]
+8. [Project Innovation]()
 9. [Limitation And Next Step]()
