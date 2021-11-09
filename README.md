@@ -147,6 +147,18 @@ for outlier we can use IQR method and after using IQR method.Now, our data looks
 using the feature engineering we got out top 30 features with respect to totalPrice .
 ![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/12.png)
 
+So,these are the top 20 features for our model<br>
+a. tradeTime<br>
+b. CommunityAverage<br>
+c. square<br>
+d. livingRoom<br>
+e. bathRoom<br>
+f. drawingRoom<br>
+g. renovationCondition<br>
+h. buildingStructure<br>
+i. elevator<br>
+j. constructionTime<br>
+k. Followers
 
 
 
