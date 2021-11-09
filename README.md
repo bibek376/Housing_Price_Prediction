@@ -220,12 +220,12 @@ c. Best accuracy<br>
 d. GUI Based Application
 
 ### 9. Limitation And Next Step
-Limitation are :-
+Limitation are :-<br>
 a. Mobile Application<br>
 b. Accuracy can be improve<br>
 c. Model Size is heavy(~310 mb )
 
-Next Step are :-
+Next Step are :-<br>
 a. we will work on mobile application<br>
 b. we will reduce the size of model using PCA .
 
