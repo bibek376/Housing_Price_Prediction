@@ -1,10 +1,10 @@
 # Housing_Price_Prediction
 
 ## Installation Guide
-1. [Clone or Fork the Project]
-2. [Create a Virtual Enviroment]
-3. [go to same virtual enviroment and write below cmd]
-4. [pip install requirements.txt]
+1. Clone or Fork the Project
+2. Create a Virtual Enviroment
+3. go to same virtual enviroment and write below cmd
+4. pip install requirements.txt
 
 
 
