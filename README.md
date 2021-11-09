@@ -15,7 +15,7 @@
     C. Introduction About Project<br>
     D. Tools and Libraries
 2. [Data Collection](https://www.kaggle.com/ruiqurm/lianjia)
-3. [EDA]()
+3. [EDA](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Housing_Price_Predication_Project_EDA.ipynb)<br>
     A. Data Cleaning<br>
     B. Feature Engineering
 4. [Choosing Best ML Model]()
@@ -46,6 +46,11 @@ But by using the Machine learning we can easily find the house which is to be pr
 Tools<br><br>
 a.Python<br>
 b.Jupyter Notebook<br>
+c. Flask
+d. HTML
+e. CSS
+f. JS
+g. Heroku
 
 Libraries<br><br>
 a.Pandas<br>
