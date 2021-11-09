@@ -19,8 +19,8 @@
 Thousands of houses are sold everyday. There are some questions every buyer asks himself like: What is the actual price that this house deserves? Am I paying a fair price?
 
 #### Best Possible Solutions
-a.Housing Expert
-b.Intuition About House
+a.Housing Expert<br>
+b.Intuition About House<br>
 c.Using Machine Learning
 
 
