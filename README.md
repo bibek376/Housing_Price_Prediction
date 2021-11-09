@@ -13,16 +13,17 @@
     C. Introduction About Project<br>
     D. Tools and Libraries
 2. [Data Collection](https://www.kaggle.com/ruiqurm/lianjia)
-3. [EDA](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Housing_Price_Predication_Project_EDA.ipynb)<br>
+3.  Generic Flow Of Project
+4. [EDA](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Housing_Price_Predication_Project_EDA.ipynb)<br>
     A. Data Cleaning<br>
     B. Feature Engineering<br>
     C. Data Normalization
-4. [Choosing Best ML Model](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Machine_Learning_Model_Creation.ipynb)
-5. [Model Creation](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Machine_Learning_Model_Creation.ipynb)
-6. Model Deployment
-7. Model Conclusion
-8. Project Innovation
-9. Limitation And Next Step
+5. [Choosing Best ML Model](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Machine_Learning_Model_Creation.ipynb)
+6. [Model Creation](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Machine_Learning_Model_Creation.ipynb)
+7. Model Deployment
+8. Model Conclusion
+9. Project Innovation
+10. Limitation And Next Step
 
 
 ### 1. Project Description
@@ -84,8 +85,10 @@ ladderRatio: the proportion between number of residents on the same floor and nu
 elevator: have ( 1 ) or not have elevator( 0 )<br>
 fiveYearsProperty: if the owner have the property for less than 5 years.<br>
 
+### 3. Generic Flow Of Project
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/18.png)
 
-### 3. EDA
+### 4. EDA
 ![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/1.png)
 #### A.Data Cleaning
 we have 26 columns ,from these we don't want some column(i.e. url,id,cid) then we will perform data cleaning wich involve following steps. our target variable is totalPrice<br>
@@ -165,7 +168,7 @@ In this approach we scale down the feature in between 0 to 1
 we have numerical column where we can apply min-max Normalization.<br>
 ![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/13.png)
 
-### 4. Choosing Best ML Model
+### 5. Choosing Best ML Model
 List of the model that we can use for our problem<br>
 a. LinearRegression model<br>
 b. KNN Model<br>
@@ -180,7 +183,7 @@ Using the linearRegression we got only 75 % accuracy.
 Using the Random Forest we got 98 % accuracy on train data and 89 % on test data .so,we can consider RandomForest as a  Best Algorithm for this problem.
 
 
-### 5. Model Creation
+### 6. Model Creation
 So,using a RandomForest we got good accuracy , we can Hyperparameter tuning  for best accuracy.
 
 Algorithm that can be used for Hyperparameter tuning are :-
@@ -204,22 +207,22 @@ So, After Hyperparameter Tuning we got 90 % accuracy on test data and 94 % accur
 Now,Accuracy of model seems to be very good .so we can save the model using pickle. 
 
 
-### 6. Model Deployment
+### 7. Model Deployment
 After creating model ,we integrate that model with beautiful UI. for the UI part we used HTML,CSS,JS and Flask.
 ![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/17.png)
 
-### 7. Model Conclusion
+### 8. Model Conclusion
 
 Model predict 90% accurately on test data and 94% accurately on train data .
 
 
-### 8. Project Innovation
+### 9. Project Innovation
 a. Easy to use<br>
 b. open source<br>
 c. Best accuracy<br>
 d. GUI Based Application
 
-### 9. Limitation And Next Step
+### 10. Limitation And Next Step
 Limitation are :-<br>
 a. Mobile Application<br>
 b. Accuracy can be improve<br>
