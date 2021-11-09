@@ -46,10 +46,10 @@ But by using the Machine learning we can easily find the house which is to be pr
 Tools<br><br>
 a.Python<br>
 b.Jupyter Notebook<br>
-c. Flask
-d. HTML
-e. CSS
-f. JS
+c. Flask<br>
+d. HTML<br>
+e. CSS<br>
+f. JS<br>
 g. Heroku
 
 Libraries<br><br>
