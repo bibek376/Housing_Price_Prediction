@@ -165,6 +165,13 @@ In this approach we scale down the feature in between 0 to 1
 we have numerical column where we can apply min-max Normalization.<br>
 ![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/13.png)
 
+### 4. Choosing Best ML Model
+List of the model that we can use for our problem<br>
+a. LinearRegression model<br>
+b. KNN Model<br>
+c. Decesion Tree<br>
+d. Random Forest
+
 
 
 
