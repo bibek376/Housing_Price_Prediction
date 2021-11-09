@@ -173,7 +173,11 @@ c. Decesion Tree<br>
 d. Random Forest
 
 
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/14.png)<br>
+Using the linearRegression we got only 75 % accuracy.
 
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/15.png)<br>
+Using the Random Forest we got 98 % accuracy on train data and 89 % on test data .so,we can consider RandomForest as a  Best Algorithm for this problem.
 
 
 
