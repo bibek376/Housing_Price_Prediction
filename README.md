@@ -138,9 +138,14 @@ a. Most of the peoples average are lies in 12500-150000 ...
 we found outlier in our data ..
 
 ![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/10.png)<br>
-from the above figure we can notice that we have an outlier present in our dataset.
-for outlier we can use IQR method after using IQR method.
+from the above figure we can notice that we have an outlier present in our dataset.<br>
+for outlier we can use IQR method and after using IQR method.Now, our data looks fine.
 ![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/11.png)
+
+
+
+using the feature engineering we got out top 30 features with respect to totalPrice .
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/12.png)
 
 
 
