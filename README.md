@@ -192,6 +192,11 @@ d. Sequential model based optimization<br>
 e. Optuna-Automate Hyperparameter Tuning<br>
 f. Genetic Algorithm<br>
 
+Main parameters used by RandomForest Algorithm are :-
+
+a. n_estimators --->    The number of trees in the forest.<br>
+b. criterion--->{"mse", "mae"}-->The function to measure the quality of a split<br>
+c. max_features--->{"auto", "sqrt", "log2"}-->    The number of features to consider when looking for the best split:
 
 
 
