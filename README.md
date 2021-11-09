@@ -6,8 +6,6 @@
 3. go to same virtual enviroment and write below cmd
 4. pip install -r requirements.txt
 
-
-
 ## Table Of Content
 1. [Project Descriptiom](https://www.kaggle.com/ruiqurm/lianjia)<br>
     A. Problem Statement<br>
@@ -17,14 +15,14 @@
 2. [Data Collection](https://www.kaggle.com/ruiqurm/lianjia)
 3. [EDA](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Housing_Price_Predication_Project_EDA.ipynb)<br>
     A. Data Cleaning<br>
-    B. Feature Engineering
+    B. Feature Engineering<br>
+    C. Data Normalization
 4. [Choosing Best ML Model]()
 5. [Model Creation]()
 6. [Model Deployment]()
 7. [Model Conclusion]()
 8. [Project Innovation]()
 9. [Limitation And Next Step]()
-
 
 
 ### 1. Project Description
@@ -160,10 +158,12 @@ i. elevator<br>
 j. constructionTime<br>
 k. Followers
 
+#### C. Data Normalization
+Normalization (min-max Normalization)<br>
+In this approach we scale down the feature in between 0 to 1
 
-
-
-
+we have numerical column where we can apply min-max Normalization.<br>
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/13.png)
 
 
 
