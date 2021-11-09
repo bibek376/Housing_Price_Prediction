@@ -24,6 +24,7 @@
 8. Model Conclusion
 9. Project Innovation
 10. Limitation And Next Step
+11. Working Project Video
 
 
 ### 1. Project Description
@@ -233,72 +234,8 @@ a. we will work on mobile application<br>
 b. we will reduce the size of model using PCA .
 
 
-
-
-
+### 11. Working Project Video
 ![Working Projecct](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/1_Video.gif)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
