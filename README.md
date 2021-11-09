@@ -226,7 +226,7 @@ b. Accuracy can be improve<br>
 c. Model Size is heavy(~310 mb )
 
 Next Step are :-
-a. we will work on mobile application
+a. we will work on mobile application<br>
 b. we will reduce the size of model using PCA .
 
 
