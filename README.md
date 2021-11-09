@@ -82,6 +82,9 @@ fiveYearsProperty: if the owner have the property for less than 5 years.<br>
 
 ### 3. EDA
 
+#### A.Data Cleaning
+we have 26 columns ,from these we don't want some column  
+
 
 
 
