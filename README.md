@@ -41,11 +41,11 @@ People don’t know about the factor which influence the house price.
 But by using the Machine learning we can easily find the house which is to be prefect for us and helps to predict the price accurately.
 
 #### D. Tools and Libraries
-Tools<br>
+Tools<br><br>
 a.Python<br>
 b.Jupyter Notebook<br>
 
-Libraries<br>
+Libraries<br><br>
 a.Pandas<br>
 b.Scikit Learn<br>
 c.Numpy<br>
