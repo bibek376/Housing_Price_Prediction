@@ -208,11 +208,26 @@ Now,Accuracy of model seems to be very good .so we can save the model using pick
 After creating model ,we integrate that model with beautiful UI. for the UI part we used HTML,CSS,JS and Flask.
 ![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/17.png)
 
+### 7. Model Conclusion
+
+Model predict 90% accurately on test data and 94% accurately on train data .
 
 
+### 8. Project Innovation
+a. Easy to use<br>
+b. open source<br>
+c. Best accuracy<br>
+d. GUI Based Application
 
+### 9. Limitation And Next Step
+Limitation are :-
+a. Mobile Application<br>
+b. Accuracy can be improve<br>
+c. Model Size is heavy(~310 mb )
 
-
+Next Step are :-
+a. we will work on mobile application
+b. we will reduce the size of model using PCA .
 
 
 
