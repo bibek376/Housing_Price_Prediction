@@ -2,6 +2,9 @@
 
 ## Table Of Content
 1. [Project Descriptiom]()
+    a. Problem Statement
+    b. Best Possible Solutions
+    c.  Introduction About Project
 2. [Data Collection]()
 3. [EDA]()
 4. [Choosing Best ML Model]()
