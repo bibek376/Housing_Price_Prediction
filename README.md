@@ -16,6 +16,8 @@
     D. Tools and Libraries
 2. [Data Collection](https://www.kaggle.com/ruiqurm/lianjia)
 3. [EDA]()
+    A. Data Cleaning<br>
+    B. Feature Engineering
 4. [Choosing Best ML Model]()
 5. [Model Creation]()
 6. [Model Deployment]()
@@ -127,7 +129,7 @@ a. most of the expensive houses have HardCover as a renovation condition
 Summary of lineplot<br>
 a. Most of the peoples average are lies in 12500-150000 ...
 
-
+#### B. Feature Engineering
 
 
 
