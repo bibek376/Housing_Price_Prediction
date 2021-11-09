@@ -95,6 +95,16 @@ we handle NAN value using appropriate solutions.
 DOM Column have more than 50% value are missing it's better to delete that column
 
 
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/4.png)<br>
+some column have unique character. we solve these problem using split method and create seprate column for unique character.<br>
+
+We also have a categorical data we handle such kind of data using dummies variable concept. following are the columns which have categorical data.<br>
+a. renovationCondition<br>
+b. buildingStructure
+c. buildingType
+d. district
+e. elevator
+f. floor_type
 
 
 
