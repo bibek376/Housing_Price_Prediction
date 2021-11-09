@@ -135,7 +135,13 @@ Summary of lineplot<br>
 a. Most of the peoples average are lies in 12500-150000 ...
 
 #### B. Feature Engineering
+we find outlier in our data ..
 
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/10.png)<br>
+from the above figure we can notice that we have an outlier present in our dataset.
+
+for outlier we can use IQR method after using IQR method.
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/11.png)
 
 
 
