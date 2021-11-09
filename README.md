@@ -106,11 +106,27 @@ d. district<br>
 e. elevator<br>
 f. floor_type
 
-
 ![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/5.png)
 Summary of the Heat-Map<br>
 a. totalPrice is highly corellated with community average,square,bathroom,livingroom and Trde Time.<br>
 b. totalprice is highly negative corellated with ladderRatio,lat and lng.
+
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/6.png)
+Summary of the Density Plot<br>
+a. most of the output features is lies between 0-2500
+
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/7.png)
+Summary of Scatterplot<br>
+a. Most of the House Followers 0-400.
+
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/8.png)
+Summery of Scatterplot with respect to renovationCondition<br>
+a. most of the expensive houses have HardCover as a renovation condition
+
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/9.png)
+Summary of lineplot<br>
+a. Most of the peoples average are lies in 12500-150000 ...
+
 
 
 
