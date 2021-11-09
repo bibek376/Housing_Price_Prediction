@@ -81,9 +81,12 @@ fiveYearsProperty: if the owner have the property for less than 5 years.<br>
 
 
 ### 3. EDA
-
+![alt_text]()
 #### A.Data Cleaning
-we have 26 columns ,from these we don't want some column  
+we have 26 columns ,from these we don't want some column then we will perform data cleaning wich involve following steps.<br>
+a. Impute/Remove missing values or Null values (NaN)
+b. Remove unnecessary and corrupted data.
+c. Date/Text parsing if required.
 
 
 
