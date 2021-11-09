@@ -2,9 +2,9 @@
 
 ## Table Of Content
 1. [Project Descriptiom]()<br>
-    a. Problem Statement<br>
-    b. Best Possible Solutions<br>
-    c.  Introduction About Project
+    A. Problem Statement<br>
+    B. Best Possible Solutions<br>
+    B. Introduction About Project
 2. [Data Collection]()
 3. [EDA]()
 4. [Choosing Best ML Model]()
@@ -17,16 +17,16 @@
 
 
 ### 1. Project Description
-#### Problem Statement
+#### A. Problem Statement
 
 Thousands of houses are sold everyday. There are some questions every buyer asks himself like: What is the actual price that this house deserves? Am I paying a fair price?
 
-#### Best Possible Solutions
+#### B. Best Possible Solutions
 a.Housing Expert<br>
 b.Intuition About House<br>
 c.Using Machine Learning
 
-#### Introduction About Project
+#### C. Introduction About Project
 House Price prediction are very stressful work as we have to consider different things while buying a house like the structure and the rooms kitchen parking space and gardens. 
 People don’t know about the factor which influence the house price.
 But by using the Machine learning we can easily find the house which is to be prefect for us and helps to predict the price accurately.
