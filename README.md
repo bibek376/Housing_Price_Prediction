@@ -17,12 +17,12 @@
     A. Data Cleaning<br>
     B. Feature Engineering<br>
     C. Data Normalization
-4. [Choosing Best ML Model]()
-5. [Model Creation]()
-6. [Model Deployment]()
-7. [Model Conclusion]()
-8. [Project Innovation]()
-9. [Limitation And Next Step]()
+4. [Choosing Best ML Model](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Machine_Learning_Model_Creation.ipynb)
+5. [Model Creation](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Machine_Learning_Model_Creation.ipynb)
+6. Model Deployment
+7. Model Conclusion
+8. Project Innovation
+9. Limitation And Next Step
 
 
 ### 1. Project Description
@@ -200,9 +200,13 @@ c. max_features--->{"auto", "sqrt", "log2"}-->    The number of features to cons
 
 
 So, After Hyperparameter Tuning we got 90 % accuracy on test data and 94 % accuracy on train data. 
-![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/16.png)
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/16.png)<br>
+Now,Accuracy of model seems to be very good .so we can save the model using pickle. 
 
 
+### 6. Model Deployment
+After creating model ,we integrate that model with beautiful UI. for the UI part we used HTML,CSS,JS and Flask.
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/17.png)
 
 
 
