@@ -84,10 +84,12 @@ fiveYearsProperty: if the owner have the property for less than 5 years.<br>
 ![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/1.png)
 #### A.Data Cleaning
 we have 26 columns ,from these we don't want some column(i.e. url,id,cid) then we will perform data cleaning wich involve following steps.<br>
-a. Impute/Remove missing values or Null values (NaN)
-b. Remove unnecessary and corrupted data.
+a. Impute/Remove missing values or Null values (NaN)<br>
+b. Remove unnecessary and corrupted data.<br>
 c. Date/Text parsing if required.
 
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/2.png)
+so, we handle NAN value using appropriate solutions.
 
 
 
