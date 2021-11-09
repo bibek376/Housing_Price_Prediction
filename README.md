@@ -83,7 +83,7 @@ fiveYearsProperty: if the owner have the property for less than 5 years.<br>
 ### 3. EDA
 ![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/1.png)
 #### A.Data Cleaning
-we have 26 columns ,from these we don't want some column then we will perform data cleaning wich involve following steps.<br>
+we have 26 columns ,from these we don't want some column(i.e. url,id,cid) then we will perform data cleaning wich involve following steps.<br>
 a. Impute/Remove missing values or Null values (NaN)
 b. Remove unnecessary and corrupted data.
 c. Date/Text parsing if required.
