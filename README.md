@@ -14,7 +14,7 @@
     B. Best Possible Solutions<br>
     C. Introduction About Project<br>
     D. Tools and Libraries
-2. [Data Collection]()
+2. [Data Collection](https://www.kaggle.com/ruiqurm/lianjia)
 3. [EDA]()
 4. [Choosing Best ML Model]()
 5. [Model Creation]()
@@ -51,6 +51,107 @@ b.Scikit Learn<br>
 c.Numpy<br>
 d.Seaborn<br>
 e.Matpoltlib<br>
+
+
+
+### 2. Data Collection
+For this project we used the data that is available on kaggle([click here for data](https://www.kaggle.com/ruiqurm/lianjia))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
