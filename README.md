@@ -199,7 +199,8 @@ b. criterion--->{"mse", "mae"}-->The function to measure the quality of a split<
 c. max_features--->{"auto", "sqrt", "log2"}-->    The number of features to consider when looking for the best split:
 
 
-
+So, After Hyperparameter Tuning we got 90 % accuracy on test data and 94 % accuracy on train data. 
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/16.png)
 
 
 
