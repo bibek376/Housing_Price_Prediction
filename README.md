@@ -180,7 +180,17 @@ Using the linearRegression we got only 75 % accuracy.
 Using the Random Forest we got 98 % accuracy on train data and 89 % on test data .so,we can consider RandomForest as a  Best Algorithm for this problem.
 
 
+### 5. Model Creation
+So,using a RandomForest we got good accuracy , we can Hyperparameter tuning  for best accuracy.
 
+Algorithm that can be used for Hyperparameter tuning are :-
+
+a. GridSearchCV<br>
+b. RandomizedSearchCV<br>
+c. Bayesian Optimization-Automate Hyperparameter Tuning (Hyperopt)<br>
+d. Sequential model based optimization<br>
+e. Optuna-Automate Hyperparameter Tuning<br>
+f. Genetic Algorithm<br>
 
 
 
