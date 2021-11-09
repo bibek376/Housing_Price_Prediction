@@ -55,7 +55,29 @@ e.Matpoltlib<br>
 
 
 ### 2. Data Collection
-For this project we used the data that is available on kaggle([click here for data](https://www.kaggle.com/ruiqurm/lianjia))
+For this project we used the data that is available on kaggle.([click here for data](https://www.kaggle.com/ruiqurm/lianjia)).There are 26 columns and 318851 Rows. These are the major point about the data set.<br>
+url: the url which fetches the data<br>
+id: the id of transaction<br>
+Lng: and Lat coordinates, using the BD09 protocol.<br>
+Cid: community id<br>
+tradeTime: the time of transaction<br>
+DOM: active days on market<br>
+followers: the number of people follow the transaction.<br>
+totalPrice: the total price<br>
+price: the average price by square<br>
+square: the square of house<br>
+livingRoom: the number of living room<br>
+drawingRoom: the number of drawing room<br>
+kitchen: the number of kitchen<br>
+bathroom the number of bathroom<br>
+floor: the height of the house. I will turn the Chinese characters to English in the next version.<br>
+buildingType: including tower( 1 ) , bungalow( 2 )，combination of plate and tower( 3 ), plate( 4 ).<br>
+constructionTime: the time of construction<br>
+renovationCondition: including other( 1 ), rough( 2 ),Simplicity( 3 ), hardcover( 4 )<br>
+buildingStructure: including unknow( 1 ), mixed( 2 ), brick and wood( 3 ), brick and concrete( 4 ),steel( 5 ) and steel-concrete composite ( 6 ).<br>
+ladderRatio: the proportion between number of residents on the same floor and number of elevator of ladder. It describes how many ladders a resident have on average.<br>
+elevator: have ( 1 ) or not have elevator( 0 )<br>
+fiveYearsProperty: if the owner have the property for less than 5 years.<br>
 
 
 
