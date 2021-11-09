@@ -88,8 +88,11 @@ a. Impute/Remove missing values or Null values (NaN)<br>
 b. Remove unnecessary and corrupted data.<br>
 c. Date/Text parsing if required.
 
-![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/2.png)
-so, we handle NAN value using appropriate solutions.
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/2.png)<br>
+we handle NAN value using appropriate solutions.
+
+![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/3.png)<br>
+DOM Column have more than 50% value are missing it's better to delete that column
 
 
 
