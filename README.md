@@ -1,4 +1,4 @@
-# Housing_Price_Prediction
+# Housing_Price_Prediction_In_Beijing
 
 ## Installation Guide
 1. Clone or Fork the Project
