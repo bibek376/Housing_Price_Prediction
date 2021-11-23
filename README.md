@@ -50,7 +50,8 @@ c. Flask<br>
 d. HTML<br>
 e. CSS<br>
 f. JS<br>
-g. Heroku
+g. Heroku<br>
+h. GitHub
 
 Libraries<br><br>
 a.Pandas<br>
