@@ -228,7 +228,8 @@ d. GUI Based Application
 Limitation are :-<br>
 a. Mobile Application<br>
 b. Accuracy can be improve<br>
-c. Model Size is heavy(~310 mb )
+c. Model Size is heavy(~310 mb )<br>
+d. Feature is limited
 
 Next Step are :-<br>
 a. we will work on mobile application<br>
