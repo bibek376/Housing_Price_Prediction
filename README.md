@@ -6,6 +6,8 @@
 3. go to same virtual enviroment and write below cmd
 4. pip install -r requirements.txt
 
+## Project Highlights
+
 ## Table Of Content
 1. [Project Descriptiom](https://www.kaggle.com/ruiqurm/lianjia)<br>
     A. Problem Statement<br>
