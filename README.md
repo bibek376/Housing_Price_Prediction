@@ -7,6 +7,10 @@
 4. pip install -r requirements.txt
 
 ## Project Highlights
+1. Research Paper
+2. User Friendly
+3. Accuracy
+4. Open Source
 
 ## Table Of Content
 1. [Project Descriptiom](https://www.kaggle.com/ruiqurm/lianjia)<br>
